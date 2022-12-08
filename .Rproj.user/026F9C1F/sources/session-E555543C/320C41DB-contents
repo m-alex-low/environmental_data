@@ -1,0 +1,12 @@
+---
+title: "Alex's Project Homepage"
+author: "Alex Low"
+date: "2022-12-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome to Alex's class page :)
