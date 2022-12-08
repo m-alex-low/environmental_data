@@ -1,0 +1,31 @@
+---
+title: "R Markdown Documents - Part 1"
+subtitle: "Analysis of Environmental Data"
+author: "Alex Low"
+date: "2022-09-25"
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      toc_collapsed: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Hi there, my name is **Alex Low** and I am a second-semester *Geography* Masters student in the *GIST Program.* I'm 
+interested in spatial data science and cartography, and outside of school enjoy running, painting, and tabletop
+games.
+
+## Concepts List
+1. What distinguishes different statistical methods of thinking (i.e. Frequentist, Bayesian, etc.)
+2. Basic R Programming Syntax
+3. Metrics of "certainty"/accuracy of data analysis
+
+## Course List
+* GIS and Spatial Analysis
+* Geocomputation
+* Remote Sensing & Image Interpretation
