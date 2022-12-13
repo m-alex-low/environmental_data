@@ -1,0 +1,27 @@
+{
+    "id": "03872D8F",
+    "path": "~/environmental_data/assignments/final_data_analysis.R",
+    "project_path": "assignments/final_data_analysis.R",
+    "type": "r_source",
+    "hash": "2802711368",
+    "contents": "",
+    "dirty": false,
+    "created": 1670799501460.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "62,0",
+        "scrollLine": "30"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1670806078,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1670806078872,
+    "read_only": false,
+    "read_only_alternatives": []
+}
